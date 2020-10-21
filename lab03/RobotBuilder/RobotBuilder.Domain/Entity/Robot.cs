@@ -1,4 +1,6 @@
-﻿using System;
+﻿using RobotBuilder.Domain.Entity.Devices.Inputs;
+using RobotBuilder.Domain.Entity.Devices.Outputs;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
@@ -15,6 +17,11 @@ namespace RobotBuilder.Domain.Entity
 
         private string _seriesCode;
         private int _seriesNumber;
+        private Camera _camera;
+        private Microphone _microphone;
+        private Lamp _lamp;
+        private Speaker _speaker;
+
         public bool isTurnOn;
         public Robot()
         {
@@ -35,6 +42,16 @@ namespace RobotBuilder.Domain.Entity
         {
             _seriesCode = seriesCode;
             _seriesNumber = seriesNumber;
+        }
+
+        public Robot(string seriesCode, int seriesNumber, Camera camera, Microphone microphone, Lamp lamp, Speaker speaker)
+        {
+            _seriesCode = seriesCode;
+            _seriesNumber = seriesNumber;
+            _camera = camera;
+            _microphone = microphone;
+            _lamp = lamp;
+            _speaker = speaker;
         }
     }
 }
