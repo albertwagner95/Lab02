@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DgBNrHFuiiG5jhumd4bJqCgd6tEELU28d0I2bSECEbIGJTWJIPdVizhegICcm4jQwL5iKWtL6dmhblRt0xxNXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wagne\\Desktop\\.net zadania\\lab03\\RobotBuilder\\RobotBuilder.App\\RobotBuilder.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wagne\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\wagne\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

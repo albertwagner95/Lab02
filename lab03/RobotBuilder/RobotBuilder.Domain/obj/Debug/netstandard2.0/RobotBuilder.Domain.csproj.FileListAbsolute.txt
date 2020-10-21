@@ -1,0 +1,9 @@
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\bin\Debug\netstandard2.0\RobotBuilder.Domain.deps.json
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\bin\Debug\netstandard2.0\RobotBuilder.Domain.dll
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\bin\Debug\netstandard2.0\RobotBuilder.Domain.pdb
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\obj\Debug\netstandard2.0\RobotBuilder.Domain.csprojAssemblyReference.cache
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\obj\Debug\netstandard2.0\RobotBuilder.Domain.AssemblyInfoInputs.cache
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\obj\Debug\netstandard2.0\RobotBuilder.Domain.AssemblyInfo.cs
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\obj\Debug\netstandard2.0\RobotBuilder.Domain.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\obj\Debug\netstandard2.0\RobotBuilder.Domain.dll
+C:\Users\wagne\Desktop\.net zadania\lab03\RobotBuilder\RobotBuilder.Domain\obj\Debug\netstandard2.0\RobotBuilder.Domain.pdb

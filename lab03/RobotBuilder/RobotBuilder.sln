@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotBuilder", "RobotBuilder\RobotBuilder.csproj", "{0A6D9684-75B3-4965-AFB3-FBCD45165139}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotBuilder.App", "RobotBuilder.App\RobotBuilder.App.csproj", "{8F937826-CBC1-4239-9E33-CAC0A5969B09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotBuilder.Domain", "RobotBuilder.Domain\RobotBuilder.Domain.csproj", "{FAA4CA67-4EAB-4558-A788-6A12ACE46512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{0A6D9684-75B3-4965-AFB3-FBCD45165139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A6D9684-75B3-4965-AFB3-FBCD45165139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A6D9684-75B3-4965-AFB3-FBCD45165139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F937826-CBC1-4239-9E33-CAC0A5969B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F937826-CBC1-4239-9E33-CAC0A5969B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F937826-CBC1-4239-9E33-CAC0A5969B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F937826-CBC1-4239-9E33-CAC0A5969B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA4CA67-4EAB-4558-A788-6A12ACE46512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA4CA67-4EAB-4558-A788-6A12ACE46512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA4CA67-4EAB-4558-A788-6A12ACE46512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA4CA67-4EAB-4558-A788-6A12ACE46512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

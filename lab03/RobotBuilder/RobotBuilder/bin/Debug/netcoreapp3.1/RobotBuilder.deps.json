@@ -7,14 +7,41 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "RobotBuilder/1.0.0": {
+        "dependencies": {
+          "RobotBuilder.App": "1.0.0",
+          "RobotBuilder.Domain": "1.0.0"
+        },
         "runtime": {
           "RobotBuilder.dll": {}
+        }
+      },
+      "RobotBuilder.App/1.0.0": {
+        "dependencies": {
+          "RobotBuilder.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RobotBuilder.App.dll": {}
+        }
+      },
+      "RobotBuilder.Domain/1.0.0": {
+        "runtime": {
+          "RobotBuilder.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "RobotBuilder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotBuilder.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RobotBuilder.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
