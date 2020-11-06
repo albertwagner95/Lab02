@@ -24,6 +24,11 @@ namespace KontrolaLotow.Dane.Baza
         {
             return new Samolot(94124,new Polozenie(131, 2225));
         }
+
+        public Samolot WezSamolot(Miasto miastoWylotu)
+        {
+            return new Samolot(23513, 900, miastoWylotu);
+        }
     }
 }
 

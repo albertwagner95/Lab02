@@ -10,19 +10,16 @@ namespace KotrolaLotow
     {
         static void Main(string[] args)
         {
-            //var sysK = new SystemKontroliLotow();
-            //var rep = new Repozytorium();
-
-            //var sam = rep.WezSamolot();
-            //sysK.WezSamolot(sam);
-
-            //sysK.EkranObecnegoStanu();
-
             var sysK = new SystemKontroliLotow();
             var rep = new Repozytorium();
+
+            var sam = rep.WezSamolot();
+            sysK.WezSamolot(sam);
+
+            sysK.EkranObecnegoStanu(); 
             var mias = rep.WezMiasto("Kraków");
             var samolot = new Samolot(12, 22, mias);
-            var sam = rep.WezSamolot();
+            var sams = rep.WezSamolot();
             sysK.EkranObecnegoStanu();
         }
     }
