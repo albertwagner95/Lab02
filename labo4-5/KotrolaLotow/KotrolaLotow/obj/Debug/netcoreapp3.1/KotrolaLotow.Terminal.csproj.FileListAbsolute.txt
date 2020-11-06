@@ -1,0 +1,16 @@
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KotrolaLotow.Terminal.exe
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KotrolaLotow.Terminal.deps.json
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KotrolaLotow.Terminal.runtimeconfig.json
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KotrolaLotow.Terminal.runtimeconfig.dev.json
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KotrolaLotow.Terminal.dll
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KotrolaLotow.Terminal.pdb
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.csprojAssemblyReference.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.AssemblyInfoInputs.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.AssemblyInfo.cs
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.dll
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.pdb
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.genruntimeconfig.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KontrolaLotow.Dane.dll
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\bin\Debug\netcoreapp3.1\KontrolaLotow.Dane.pdb
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KotrolaLotow\obj\Debug\netcoreapp3.1\KotrolaLotow.Terminal.csproj.CopyComplete

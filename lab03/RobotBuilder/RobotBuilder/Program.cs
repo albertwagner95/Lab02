@@ -11,20 +11,13 @@ namespace RobotBuilder
         {
             Console.WriteLine("Hello World!");
 
-            RobotService robotService = new RobotService("BB",8);
+            RobotService robotService = new RobotService("BB", 8);
 
             RobotManager robotManager = new RobotManager(robotService);
 
             robotManager.StartRobot();
             robotService.Run();
             robotManager.StartRobot();
-
-            Console.WriteLine("///");
-            Camera camera = new Camera();
-            camera.Name = "Git kamera";
-            Console.WriteLine(camera.ToString());
-            camera.TurnoOf();
-
         }
     }
 }

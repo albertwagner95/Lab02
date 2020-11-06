@@ -1,0 +1,9 @@
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\bin\Debug\netcoreapp3.1\KontrolaLotow.Dane.deps.json
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\bin\Debug\netcoreapp3.1\KontrolaLotow.Dane.dll
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\bin\Debug\netcoreapp3.1\KontrolaLotow.Dane.pdb
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\obj\Debug\netcoreapp3.1\KontrolaLotow.Dane.csprojAssemblyReference.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\obj\Debug\netcoreapp3.1\KontrolaLotow.Dane.AssemblyInfoInputs.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\obj\Debug\netcoreapp3.1\KontrolaLotow.Dane.AssemblyInfo.cs
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\obj\Debug\netcoreapp3.1\KontrolaLotow.Dane.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\obj\Debug\netcoreapp3.1\KontrolaLotow.Dane.dll
+C:\Users\wagne\Desktop\.net zadania\labo4-5\KotrolaLotow\KontrolaLotow.Dane\obj\Debug\netcoreapp3.1\KontrolaLotow.Dane.pdb
