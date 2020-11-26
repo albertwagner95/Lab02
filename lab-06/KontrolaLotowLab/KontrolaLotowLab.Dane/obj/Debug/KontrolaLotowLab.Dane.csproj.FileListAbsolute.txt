@@ -1,0 +1,14 @@
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\KontrolaLotowLab.Dane.dll
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\KontrolaLotowLab.Dane.pdb
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\obj\Debug\KontrolaLotowLab.Dane.csprojAssemblyReference.cache
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\obj\Debug\KontrolaLotowLab.Dane.csproj.CoreCompileInputs.cache
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\obj\Debug\KontrolaLotowLab.Dane.dll
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\obj\Debug\KontrolaLotowLab.Dane.pdb
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\Elasticsearch.Net.dll
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\System.Buffers.dll
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\Elasticsearch.Net.pdb
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\Elasticsearch.Net.xml
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\System.Buffers.xml
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wagne\Desktop\.net zadania\lab-06\KontrolaLotowLab\KontrolaLotowLab.Dane\obj\Debug\KontrolaLotowLab.Dane.csproj.CopyComplete
